@@ -1,17 +1,24 @@
 ---
 title: İlk yazı
+layout: default
 ---
+<h3>İlk Yazı</h3>
 
 Merhaba,
+
 Sakarya Coders için ilk blog yazısı.
 
 Bundan sonra başka yazılarımız da olacak. 
 
 Bekleyin! :)
 
+Bu arada bizi aşağıdaki sosyal medya kanallarından takip edebilirsiniz:
+
+* [Meetup sayfası](https://meetup.com/sakarya-coders){:target="_blank"}
+* [Twitter](https://twitter.com/sakaryacoders){:target="_blank"}
+* [Instagram](https://instagram.com/sakaryacoders){:target="_blank"}
+* [Facebook](https://facebook.com/sakaryacoders){:target="_blank"}
+
 Sakarya Coders Ekibi
 
-meetup.com/sakarya-coders
-twitter.com/sakaryacoders
-instagram.com/sakaryacoders
-facebook.com/sakaryacoders
+
