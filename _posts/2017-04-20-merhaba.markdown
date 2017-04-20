@@ -1,0 +1,18 @@
+---
+title: İlk yazı
+layout: post
+---
+
+Merhaba,
+Sakarya Coders için ilk blog yazısı.
+
+Bundan sonra başka yazılarımız da olacak. 
+
+Bekleyin! :)
+
+Sakarya Coders Ekibi
+
+meetup.com/sakarya-coders
+twitter.com/sakaryacoders
+instagram.com/sakaryacoders
+facebook.com/sakaryacoders
