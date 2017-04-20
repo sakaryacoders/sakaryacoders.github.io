@@ -1,6 +1,5 @@
 ---
 title: İlk yazı
-layout: post
 ---
 
 Merhaba,
